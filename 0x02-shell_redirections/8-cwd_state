@@ -1,0 +1,3 @@
+#!/bin/bash
+output=ls_cwd_content
+ls -la > $output
